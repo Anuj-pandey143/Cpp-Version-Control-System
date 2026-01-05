@@ -1,4 +1,4 @@
-# Time-Travelling File System
+# Cpp-Version Control System
 
 This project is a simplified, in-memory version control system (anuj) inspired by Git, implemented in C++. It manages files and their version histories using custom-built data structures. The system allows users to create files, track their history through a version tree, and perform operations like creating snapshots, rolling back to previous versions, and viewing system-wide analytics.
 
